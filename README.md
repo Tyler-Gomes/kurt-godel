@@ -1,4 +1,4 @@
-# Kurt-Gödel
+# Kurt Gödel
 
 Author: Tyler W Gomes
 
